@@ -19,7 +19,7 @@ Welcome to Educational Website! This is a educational website using HTML, CSS, a
 
 # Installation 
 installation command
-<br/>  git clone <"https://github.com/Techwolf78/Educational-Website">
+<br/>  git clone <"https://github.com/semertlili/Educational-Website">
 
 # Usage
 For Students to learn and grow by having access to wide study materials. 
